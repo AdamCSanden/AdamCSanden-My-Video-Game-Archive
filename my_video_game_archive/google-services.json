@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092390748256",
+    "firebase_url": "https://my-video-game-archive-default-rtdb.firebaseio.com",
+    "project_id": "my-video-game-archive",
+    "storage_bucket": "my-video-game-archive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092390748256:android:6e678f03df9f98ee120305",
+        "android_client_info": {
+          "package_name": "com.example.my_video_game_archive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092390748256-vcq5tq1ps2dotb65a0f5h76q8mdtl70n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAk9YKncupskKJEXqN-R7LlGpCrZV_OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092390748256-j25nm30re8j8ev5abuanshje1094tccg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092390748256-h6mg7995ldc7rlf8srg6oc8em3p3akc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myVideoGameArchive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
